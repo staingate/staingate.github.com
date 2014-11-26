@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | StainGate's Blog]]></title>
+  <title><![CDATA[Category: octopress | StainGate's Blog]]></title>
   <link href="http://staingate.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://staingate.github.io/"/>
-  <updated>2014-11-26T21:57:43+08:00</updated>
+  <updated>2014-11-26T22:58:16+08:00</updated>
   <id>http://staingate.github.io/</id>
   <author>
     <name><![CDATA[StainGate]]></name>
